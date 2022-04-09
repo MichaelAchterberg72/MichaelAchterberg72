@@ -3,9 +3,9 @@
 - 👀 I’m interested in software development in Business Development and Programming in Python, the Django framework and all supporting technologies such as:
 •	Both Windows and UNIX / Linux environment.
 •	Server technologies such as Redis, ASGI/Channels Web Sockets, AWS S3 boto3, Sendgrid
-•	Database technologies such as Postgres and MySQL
-•	Libraries such as AllAuth, Celery, Django-celery, Cryptography, Django-select2, Django-tinymce, M2Crypto, Pdf2image, Pillow, Pinax-notifications, Pinax-referrals
-•	Front end Web technologies such as XHTML, Javascript (ExtJS, jQuery) & CSS
+•	Database technologies such as Postgres, MySQL utilising a standard Django as well as Django GraphQL server side query language.
+•	Libraries such as AllAuth, Celery, Django-celery, Django-graphene, Cryptography, Django-select2, Django-tinymce, M2Crypto, Pdf2image, Pillow, Pinax-notifications, Pinax-referrals.
+•	Front end Web technologies such as React/Next.js, XHTML, Javascript (ExtJS, jQuery) & CSS
 •	Version control software such as Git
 •	Agile Methodology exposure
 
