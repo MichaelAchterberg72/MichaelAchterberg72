@@ -8,6 +8,7 @@
 •	Front end Web technologies such as React/Next.js, XHTML, Javascript (ExtJS, jQuery) & CSS
 •	Version control software such as Git
 •	Agile Methodology exposure
+•	Preferred IDE's utilised are VS Code and Atom
 
 - 🌱 I’m currently learning Python and JavaScript with all applications thereof venturing into the world of machine learning and AI.
 
